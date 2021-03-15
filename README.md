@@ -31,23 +31,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rookoyole/planner">
+  <a href="https://github.com/rookoyole/weather">
     <img src="./assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Daily Planner</h3>
+  <h3 align="center">Weather Planner</h3>
 
   <p align="center">
-    UA Bootcamp - Module 5 Challenge
+    UA Bootcamp - Module 6 Challenge
         <br />
-        <a href="https://github.com/rookoyole/planner"><strong>Explore the docs »</strong></a>
+        <a href="https://github.com/rookoyole/weather"><strong>Explore the docs »</strong></a>
         <br />
         <br />
-        <a href="https://github.com/rookoyole/planner">View Demo</a>
+        <a href="https://github.com/rookoyole/weather">View Demo</a>
         ·
-        <a href="https://github.com/rookoyole/planner/issues">Report Bug</a>
+        <a href="https://github.com/rookoyole/weather/issues">Report Bug</a>
         ·
-        <a href="https://github.com/rookoyole/planner/issues">Request Feature</a>
+        <a href="https://github.com/rookoyole/weather/issues">Request Feature</a>
   </p>
 </p>
 
@@ -70,20 +70,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](assets/images/screenshot.png)
 <br />
-The purpose of this project was to create a daily planner, with editable, persistent text areas for each hour.
+The purpose of this project was to create display the current and weekly weather from user selected cities.
 
 Features:
-* Current date shown at top of page
-* Instructions for saving/deleting tasks
-* Editable, persistent text areas for each hour
-* DOM generated Jquery stying based on time of day using Moment.JS
+* 
 
 <!-- PROJECT LINKS -->
 ## Project Links
 
-Hosted Link: [https://rookoyole.github.io/planner/](https://rookoyole.github.io/planner/)
+Hosted Link: [https://rookoyole.github.io/weather/](https://rookoyole.github.io/weather/)
 
-Repository Link: [https://github.com/rookoyole/planner](https://github.com/rookoyole/planner)
+Repository Link: [https://github.com/rookoyole/weather](https://github.com/rookoyole/weather)
 
 <!-- CONTACT -->
 ## Contact
@@ -94,14 +91,14 @@ Template from: https://github.com/othneildrew/Best-README-Template/blob/master/R
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rookoyole/planner.svg?style=for-the-badge
-[contributors-url]: https://github.com/rookoyole/planner/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rookoyole/planner.svg?style=for-the-badge
-[forks-url]: https://github.com/rookoyole/planner/network/members
-[stars-shield]: https://img.shields.io/github/stars/rookoyole/planner.svg?style=for-the-badge
-[stars-url]: https://github.com/rookoyole/planner/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rookoyole/planner.svg?style=for-the-badge
-[issues-url]: https://github.com/rookoyole/planner/issues
+[contributors-shield]: https://img.shields.io/github/contributors/rookoyole/weather.svg?style=for-the-badge
+[contributors-url]: https://github.com/rookoyole/weather/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rookoyole/weather.svg?style=for-the-badge
+[forks-url]: https://github.com/rookoyole/weather/network/members
+[stars-shield]: https://img.shields.io/github/stars/rookoyole/weather.svg?style=for-the-badge
+[stars-url]: https://github.com/rookoyole/weather/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rookoyole/weather.svg?style=for-the-badge
+[issues-url]: https://github.com/rookoyole/weather/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/kyle-ryan-5b526023
 [product-screenshot]: assets/images/screenshot.png
